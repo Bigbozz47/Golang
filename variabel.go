@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+//ini adalah contoh
 func main() {
 	var firstName string = "Delano Yusuf"
 	var lastName string
