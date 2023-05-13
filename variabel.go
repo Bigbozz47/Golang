@@ -9,6 +9,11 @@ func main() {
 
 	lastName = " Habibie"
 
-	fmt.Print("Halo ", firstName, lastName, "!\n")
-	fmt.Print("Hello world\n")
+	//var bilanganBulat uint8 = 28
+	var bilanganDesimal = 2.5
+
+	var exist bool = true
+
+	fmt.Println("Halo ", firstName, lastName, bilanganDesimal)
+	fmt.Print("exist?\n", exist)
 }
