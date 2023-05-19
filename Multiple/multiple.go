@@ -1,3 +1,9 @@
+/*
+Function Multiple Return
+Umumnya hanya memiliki satu buah nilai balik saja.
+Jika ada kebutuhan di mana data yang dikembalikan harus banyak,
+biasanya digunakanlah tipe seperti map, slice, atau struct sebgaia nilai balik.
+*/
 package main
 
 import (
