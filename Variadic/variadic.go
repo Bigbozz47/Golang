@@ -1,3 +1,10 @@
+/*
+	Function Variadic
+	Go mengadopsi konsep variadic function atau pembuatan fungsi dengan paramater sejenis yang tak terbatas.
+	Maksud tak terbatas adalah jumlah parameter yang disisipkan ketika pemanggilan fungsi bisa berapa saja.
+
+*/
+
 package main
 
 import "fmt"
