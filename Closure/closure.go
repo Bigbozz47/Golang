@@ -1,3 +1,12 @@
+/*
+	Function Closure
+	==>adalah sebuah fungsi yang disimpan dalam variabel.
+
+	Dengan menerapkan konsep tersebut,
+	kita bisa membuat fungsi didalam fungsi atau bahkan membuat fungsi yang mengembalikkan fungsi.
+
+*/
+
 package main
 
 import "fmt"
